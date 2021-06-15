@@ -1,6 +1,8 @@
 # IntelliJ
 .idea/
 
+.env*.local
+
 # Logs
 logs
 *.log
