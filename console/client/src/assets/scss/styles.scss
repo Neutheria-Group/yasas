@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+$primary: rgb(45, 136, 255);
+$danger: rgb(224, 36, 94);
+$black: rgb(24, 25, 26);
+
+$scheme-main: rgb(36, 37, 38);
+$scheme-main-bis: rgb(58, 59, 60);
+$scheme-main-ter: rgb(90, 91, 92);
+
+$radius: 0.5rem;
+$text-strong: rgb(176, 179, 171);
+$text-light: rgb(176, 179, 171);
+$text: rgb(176, 179, 171);
+$family-code: 'Roboto';
+
+$body-background-color: rgb(24, 25, 26);
+$body-color: rgb(176, 179, 171);
+
+$card-radius: 1rem;
+
+$input-background-color: $scheme-main-bis;
+$input-radius: 0.5rem;
+$input-border-color: none;
+$input-hover-border-color: none;
+
+@import "../../../node_modules/bulma/bulma.sass";
